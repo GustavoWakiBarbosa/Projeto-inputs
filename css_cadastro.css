@@ -1,0 +1,22 @@
+
+
+.campo{
+    margin-bottom: 15px;
+    
+}
+.cadastro{
+    margin-left: 10px;
+}
+
+#senha_confirmacao{
+    display: block;
+}
+
+label{
+    display: block;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 3px
+        
+}
